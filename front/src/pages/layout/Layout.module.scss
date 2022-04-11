@@ -4,7 +4,11 @@
 	flex-direction: column;
 	padding: 30px;
 	margin: 0 auto;
-	height: 950px;
-	width: 500px;
+	height: 700px;
+	width: 100%;
+	max-width: 560px;
 	color: #fff;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
 }

@@ -1,0 +1,18 @@
+@import '../../../sass/variables';
+
+.wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+		>.count {
+			font-size: 24px;
+			text-align: center;
+				.heading {
+					text-transform: capitalize;
+			color: $accent;
+		}
+		.number {
+			font-weight: 700;
+		}	
+		}
+	}
